@@ -2,7 +2,7 @@
 
 Esse documento descreve os comandos essenciais e o fluxo de trabalho que é recomendado para o desenvolvimento em equipe, assim garantindo a integridade do código e a comunicação eficiente da equipe.
 
-Link de referência: https://youtu.be/kB5e-gTAl\_s?si=Lh-NU4zSTmQ-eSd7 => canal (
+Link de referência: [https://youtu.be/kB5e-gTAl\_s?si=Lh-NU4zSTmQ-eSd7](https://www.youtube.com/watch?v=kB5e-gTAl_s) => canal (
 
 Dev Aprender | Jhonatan de Souza )
 
