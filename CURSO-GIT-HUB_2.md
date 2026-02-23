@@ -4,11 +4,11 @@
 
 Este documento descreve os comandos essenciais do Git e o fluxo de trabalho recomendado para desenvolvimento em equipe, garantindo organização, segurança do código e boa comunicação.
 
-📌 O que é Git e GitHub?
+## Git e GitHub
 
-Git → Ferramenta de versionamento instalada no seu computador.
+**Git** *->* Ferramenta de versionamento instalada no seu computador.
 
-GitHub → Plataforma online onde o repositório é armazenado e compartilhado.
+**GitHub** *->* Plataforma online onde o repositório é armazenado e compartilhado.
 
 -> **Comandos Essenciais**
 -> **Verificar Status**
