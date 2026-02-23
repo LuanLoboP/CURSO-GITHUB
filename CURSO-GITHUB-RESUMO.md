@@ -28,7 +28,7 @@ Branchs são caminhos diferentes do projeto que guardam versionamentos específi
 
 **Criar e Trocar**: git checkout -b (nome) — Cria uma nova branch com base na atual e já alterna para ela.
 
-## Fluxo de Trabalho Recomendado :
+## Fluxo de Trabalho:
 
 Para manter o código em produção seguro, siga esta sequência rigorosa:
 
@@ -48,7 +48,7 @@ No GitHub, utilize o botão Compare \& pull request.
 
 Descreva o que foi feito para facilitar a validação por outro desenvolvedor no Code Review.
 
-## Processo de **Merge** (_União de Códigos_)
+## Processo de **Merge** (*União de Códigos*)
 
 O Merge consiste em levar o código novo de uma branch de testes para a branch principal (main). Este processo deve ser realizado apenas por pessoas autorizadas.
 
@@ -58,7 +58,7 @@ O Merge consiste em levar o código novo de uma branch de testes para a branch p
 
 **Subir Alterações**: Finalize com **git push** na branch principal.
 
-## Preparação de Arquivos (Git Add)
+## Preparação de Arquivos (*Git Add*)
 
 Defina quais arquivos serão preparados para o commit:
 
